@@ -1,0 +1,6 @@
+artifact_location: file://localhost/D:\Work\AI_Work\Pytorch\Seq2Seq_Pytorch\Seq2Seq\mlruns/994682845625730505
+creation_time: 1710927190343
+experiment_id: '994682845625730505'
+last_update_time: 1710927190343
+lifecycle_stage: active
+name: Seq2SeqTransformer

@@ -1,0 +1,15 @@
+artifact_uri: file://localhost/D:\Work\AI_Work\Pytorch\Seq2Seq_Pytorch\Seq2Seq\mlruns/994682845625730505/a15434478d4f4b9fab034b5ca5cd083b/artifacts
+end_time: 1710928180884
+entry_point_name: ''
+experiment_id: '994682845625730505'
+lifecycle_stage: active
+run_id: a15434478d4f4b9fab034b5ca5cd083b
+run_name: '8'
+run_uuid: a15434478d4f4b9fab034b5ca5cd083b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710928142071
+status: 3
+tags: []
+user_id: osil

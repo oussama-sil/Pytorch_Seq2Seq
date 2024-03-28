@@ -1,0 +1,15 @@
+artifact_uri: file://localhost/D:\Work\AI_Work\Pytorch\Seq2Seq_Pytorch\Seq2Seq\mlruns/994682845625730505/600424f310c2411694177745d17107f2/artifacts
+end_time: 1710927545073
+entry_point_name: ''
+experiment_id: '994682845625730505'
+lifecycle_stage: active
+run_id: 600424f310c2411694177745d17107f2
+run_name: '7'
+run_uuid: 600424f310c2411694177745d17107f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710927473400
+status: 3
+tags: []
+user_id: Oussa
